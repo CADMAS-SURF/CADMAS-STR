@@ -6,4 +6,4 @@ Taro ARIKAWA, Kazuhiro HAMAGUCHI, Kazushi KITAGAWA, Tomonori SUZUKI, Development
 
 # Related Documents
 
-Please refer to the list of RelatedDocuments.md
+Please refer to the list of [related documents](/RelatedDocuments.md).
