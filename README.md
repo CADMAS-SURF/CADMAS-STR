@@ -15,3 +15,13 @@ Please refer to the list of [related documents](/RelatedDocuments.md).
 ## Version
 
 CADMAS-SURF/3D-2F [cadmas-ver.5.3.3](https://github.com/CADMAS-SURF/CADMAS-STR/tree/master/Src/cadmas_ver5.3.3)
+STR3D [str-3.4.2-built](https://github.com/CADMAS-SURF/CADMAS-STR/tree/master/Src/str-3.4.2-built)
+
+## Documentation
+
+ 1. CADMAS-SURF/3D-2F [Program manual](https://github.com/CADMAS-SURF/CADMAS-STR/blob/master/Manuals/CADMAS-STR_Program%20Instructions%20(CADMAS).pdf)
+ 2. STR3D [Program manual](https://github.com/CADMAS-SURF/CADMAS-STR/blob/master/Manuals/CADMAS-STR_Program%20Instructions.pdf)
+ 3. How to create input files [bdf file(Bulk Data File)](https://github.com/CADMAS-SURF/CADMAS-STR/blob/master/Manuals/CADMAS-STR_Program%20Instructions.pdf) (Femap required)
+                              [CADMAS files](https://github.com/CADMAS-SURF/CADMAS-SURF-3D/blob/master/Manuals/CADMAS-MESH_Manual.pdf) ([CADMAS-MESH](https://github.com/CADMAS-SURF/CADMAS-MESH) required)
+ 4. Visualization software　[ViewKAI3D](https://github.com/CADMAS-SURF/Viewkai).
+ 5. Visualization software (recommendation) [CADMAS-VR](https://github.com/CADMAS-SURF/CADMAS-VR).
